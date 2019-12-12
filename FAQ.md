@@ -71,3 +71,5 @@
     During development an FPGA prototyping system was used.  FPGA_MOD was used to simplify
     the RTL to ease the mapping to an FPGA prototyping system which used older FPGAs.  This
     define is not related to whether the final implementation is in an ASIC or FPGA.
+    
+#### Microsoft is currently using this compression algorithm in their data-centers or for Azure cloud, is it true?
